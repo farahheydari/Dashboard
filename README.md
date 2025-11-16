@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-##  Developed by Farahnaz Heydari ====> on vpn
-# Dashboard with next.js
+##  Developed by Farahnaz Heydari ====> on vpn <=====
+# Dashboard with next.js & mui & fireBase
 
 - [Demo Project](https://dashboard-five-peach-70.vercel.app/)
 
